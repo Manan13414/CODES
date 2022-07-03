@@ -28,5 +28,4 @@ void main() {
     expect(find.text('1'), findsOneWidget);
   });
 }
-Footer
-© 2022 GitHub, Inc.
+
