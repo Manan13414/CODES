@@ -158,5 +158,4 @@ class _PopupVideoPlayerState extends State<PopupVideoPlayer>
     );
   }
 }
-Footer
-© 2022 GitHub, Inc.
+
